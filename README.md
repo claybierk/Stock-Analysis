@@ -4,6 +4,11 @@
 
 The objective of this analysis was to refactor VBA code so that it could be optimized to produce the desired output with more efficiency. This was accomplished by writing code to loop through all the data at once versus one cell at a time.
 
+#### Skills Used:
+- FOR loops
+- IF-THEN statements
+- Refactoring VBA code
+
 ## Results
 
 2017 Refactored:
